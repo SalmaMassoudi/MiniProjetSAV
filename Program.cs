@@ -11,7 +11,7 @@ namespace MiniProjetSAV
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // Lancement de l’unique interface
+            // Lancement de l’interface
             Application.Run(new MainForm());
         }
     }
